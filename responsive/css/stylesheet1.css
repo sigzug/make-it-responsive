@@ -11,6 +11,8 @@ p {
 }
 
 #navbar {
+
+  width: 100%;
   font-size: 150%;
 }
 #navbar ul {
