@@ -1,3 +1,18 @@
 main{
     display: flex;
 }
+main div{
+    flex: 1;
+    padding: 3vh;
+}
+main table{
+    flex: 1;
+}
+table{
+    margin: 3vh;
+    border-collapse: collapse;
+}
+td, th{
+    border: black solid 3px;
+    padding: 1vh 1vw;
+}
