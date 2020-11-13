@@ -9,9 +9,7 @@ p {
   width: 100%;
   height: auto;
 }
-
 #navbar {
-
   width: 100%;
   font-size: 150%;
 }
@@ -36,6 +34,10 @@ p {
 #navbar a:hover {
   color: white;
   background-color: grey;
+}
+#navbar ul .thissite{
+  background-color: white;
+  color: black;
 }
 
 .textbox1 {
