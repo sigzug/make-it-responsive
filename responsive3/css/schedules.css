@@ -3,16 +3,23 @@ main{
 }
 main div{
     flex: 1;
-    padding: 3vh;
-}
-main table{
-    flex: 1;
+    margin: 3vh 3vw;
 }
 table{
-    margin: 3vh;
     border-collapse: collapse;
 }
 td, th{
     border: black solid 3px;
     padding: 1vh 1vw;
+}
+
+@media only screen and (max-width: 800px){
+    main{
+        display: block;
+        margin: 3vh 3vw;
+        padding: 1vh 1vw;
+    }
+    main div{
+        width: 100%;
+    }
 }
