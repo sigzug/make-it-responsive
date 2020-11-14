@@ -56,6 +56,8 @@ h3 {
 }
 .nr1text {
   display: block;
+  overflow: scroll;
+  height: 90%;
 }
 @media only screen and (max-width: 800px){
     main div{
