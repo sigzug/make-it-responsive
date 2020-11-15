@@ -4,6 +4,7 @@
 }
 body{
   font-family: 'Poppins', sans-serif;
+  width: 100%;
 }
 p {
   font-size: 115%;
@@ -11,6 +12,7 @@ p {
 header{
   background-color: teal;
   display: flex;
+  overflow: hidden;
 }
 .title{
   width: 50%;
