@@ -1,6 +1,5 @@
 .intro {
-  padding-top: 5vh;
-  padding-bottom: 5vh;
+    padding: 5vh 3vw;
 }
 
 .aboutusmain{
@@ -33,23 +32,22 @@ h3 {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+main div{
+    background-color: #fec859;
+}
 .nr1{
-    background-color: #dbd9d8;
     border-style: solid;
     border-width: 0.5vh;
 }
 .nr2{
-    background-color: #dbd9d8;
     border-style: solid;
     border-width: 0.5vh;
 }
 .nr3{
-    background-color: #dbd9d8;
     border-style: solid;
     border-width: 0.5vh;
 }
 .nr4{
-    background-color: #dbd9d8;
     border-style: solid;
     border-width: 0.5vh;
 }
